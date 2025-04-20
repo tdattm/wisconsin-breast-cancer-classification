@@ -9,14 +9,6 @@ venv/
 env/
 .venv/
 
-# Large files
-*.joblib
-*.csv
-*.h5
-*.pth
-data/*
-models/*
-
 # Temporary files
 *.log
 *.tmp
