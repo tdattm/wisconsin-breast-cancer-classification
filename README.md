@@ -16,7 +16,7 @@ Dự án được tổ chức để dễ dàng tái hiện, với mã nguồn, t
 ### Dữ liệu: Breast Cancer Wisconsin (Diagnostic)
 Bộ dữ liệu Breast Cancer Wisconsin (Diagnostic) là một tập dữ liệu kinh điển, thường được dùng làm chuẩn mực để đánh giá các thuật toán phân loại trong học máy. Với 569 mẫu tế bào khối u vú, mỗi mẫu được mô tả qua 30 thuộc tính số học trích xuất từ ảnh FNA, tập dữ liệu này hướng đến việc dự đoán khối u là lành tính hay ác tính.
 
-Thông tin chi tiết về dataset có thể tìm thấy ở `https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data`
+Thông tin chi tiết về dataset có thể tìm thấy ở [breast-cancer-wisconsin-data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ## Thông tin thêm
 **Giảng viên hướng dẫn:** [TS. Cao Văn Chung](https://hus.vnu.edu.vn/gioi-thieu/can-bo/danh-sach-can-bo/cao-van-chung-3004.html)
