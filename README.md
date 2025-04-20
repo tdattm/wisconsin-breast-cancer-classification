@@ -18,12 +18,20 @@ Bộ dữ liệu Breast Cancer Wisconsin (Diagnostic) là một tập dữ liệ
 
 Thông tin chi tiết về dataset có thể tìm thấy ở `https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data`
 
+## Thông tin thêm
+**Giảng viên hướng dẫn:** [TS. Cao Văn Chung](https://hus.vnu.edu.vn/gioi-thieu/can-bo/danh-sach-can-bo/cao-van-chung-3004.html)
+
+**Sinh viên thực hiện:**
+- Nguyễn Tiến Đạt        - 22000081
+- Nguyễn Thành Trung     - 22001672
+- Nguyễn Thị Ánh         - 22000070
+
 ## Cấu trúc thư mục
 
 ```plain
 project/
 ├── src/                    # Mã nguồn
-│   ├── source.ipynb        # Mã nguồn đẩy đủ của dự ánán
+│   ├── source.ipynb        # Mã nguồn đẩy đủ của dự án
 ├── data/                   # Thư mục dữ liệu 
 │   └── data.csv            # Dữ liệu 
 ├── models/                 # Thư mục lưu trọng số mô hình
