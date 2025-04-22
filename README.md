@@ -27,9 +27,9 @@ Thông tin chi tiết về dataset có thể tìm thấy ở [breast-cancer-wisc
 - Nguyễn Thị Ánh         - 22000070
 
 **Phân chia công việc:**
-- Tiền xử lý, giảm chiều dữ liệu (PCA & LDA): [**_Nguyễn Thành Trung_**](https://github.com/ThanhTrung81024)
-- Mô hình học máy - KNN: [**_Nguyễn Thị Ánh_**](https://github.com/Honganhhocjava)
-- Mô hình học máy - Logistic Regression: [**_Nguyễn Tiến Đạt_**](https://github.com/tdattm)
+- Tiền xử lý, giảm chiều dữ liệu (PCA & LDA): [**Nguyễn Thành Trung**](https://github.com/ThanhTrung81024)
+- Mô hình học máy - KNN: [**Nguyễn Thị Ánh**](https://github.com/Honganhhocjava)
+- Mô hình học máy - Logistic Regression: [**Nguyễn Tiến Đạt**](https://github.com/tdattm)
 - Báo cáo và slides trình bày được chia đều cho các thành viên.
 
 ## Cấu trúc thư mục
