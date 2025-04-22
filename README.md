@@ -26,6 +26,12 @@ Thông tin chi tiết về dataset có thể tìm thấy ở [breast-cancer-wisc
 - Nguyễn Thành Trung     - 22001672
 - Nguyễn Thị Ánh         - 22000070
 
+**Phân chia công việc:**
+- Tiền xử lý, giảm chiều dữ liệu (PCA & LDA): Nguyễn Thành Trung
+- Mô hình học máy - KNN: Nguyễn Thị Ánh
+- Mô hình học máy - Logistic Regression: Nguyễn Tiến Đạt
+- Báo cáo và slides trình bày được chia đều cho các thành viên.
+
 ## Cấu trúc thư mục
 
 ```plain
