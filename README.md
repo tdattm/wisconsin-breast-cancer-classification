@@ -28,7 +28,7 @@ Thông tin chi tiết về dataset có thể tìm thấy ở [breast-cancer-wisc
 
 **Phân chia công việc:**
 - Tiền xử lý, giảm chiều dữ liệu (PCA & LDA), mô hình phân cụm K-means: [**Nguyễn Thành Trung**](https://github.com/ThanhTrung81024)
-- Mô hình phân loại - KNN (nhị phân), SVM (3 nhãn) | Mô hình hồi quy: SVR : [**Nguyễn Thị Ánh**](https://github.com/Honganhhocjava)
+- Mô hình phân loại - KNN, SVM (nhị phân) | Mô hình hồi quy: SVR : [**Nguyễn Thị Ánh**](https://github.com/Honganhhocjava)
 - Mô hình phân loại - Logistic Regression (nhị phân), Softmax Regression (3 nhãn) | Mô hình hồi quy: Linear Regression : [**Nguyễn Tiến Đạt**](https://github.com/tdattm)
 - Báo cáo và slides trình bày được chia đều cho các thành viên.
 
